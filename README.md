@@ -1,4 +1,4 @@
-# Multiplayer-Car-Racing Game secured via SSL
+# CypherRacers - Multiplayer-Car-Racing Game secured via SSL
 
 A fun and interactive **Multiplayer Car Racing** game built using **Python**, **Socket Programming**, and **SSL encryption** for secure client-server communication.
 
