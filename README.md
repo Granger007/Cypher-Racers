@@ -87,27 +87,7 @@ Each client will connect to the server and control a car using keyboard inputs.
 
 * Add lap tracking and scoring
 * GUI to select cars
-* Improve collision handling
 * Add sound effects and background music
-* Display coin counter and Nitro status on-screen
-
 ---
 
-## 🙌 Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
----
-
-## 💃 Acknowledgements
-
-Created by **Granger007** with inspiration from classic racing games and a love for Python networking.
-
----
-
-## 📁 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
 
